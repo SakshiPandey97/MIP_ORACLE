@@ -1,0 +1,10 @@
+[My Section]
+length of target region = 100
+length of MIP ext and lig arm = 20
+temperature(>) = 66
+temperature(<) = 50
+gc(>) = 61 
+gc(<) = 40
+Number of repeats = 6
+
+
